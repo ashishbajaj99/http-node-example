@@ -1,0 +1,14 @@
+{
+  "name": "master",
+  "version": "1.0.0",
+  "description": "Example to communicate with slave devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Bajaj",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
